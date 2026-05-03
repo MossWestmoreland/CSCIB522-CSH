@@ -1,0 +1,34 @@
+The standard form
+Of the equation
+Of an ellipse
+With the center at the origin
+And the major axis horizontal
+
+X squared
+Over A squared
+Plus Y squared
+Over B squared
+Equals one
+And the vertices
+Plus or minus A, zero
+
+The standard form
+Of the equation
+Of an ellipse
+With the center at the origin
+And the major axis vertical
+
+X squared
+Over B squared
+Plus Y squared
+Over A squared
+Equals one
+And the vertices
+Zero, plus or minus A
+
+Co-vertices
+Co-vertices
+Co-vertices
+Co-vertices
+Co-vertices
+Co-vertices...
